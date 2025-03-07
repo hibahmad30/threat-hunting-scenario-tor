@@ -80,14 +80,17 @@ DeviceFileEvents
 - **Date**: August 31, 2024
 
 ## Validated By:
-- **Reviewer Name**: 
-- **Reviewer Contact**: 
-- **Validation Date**: 
+- **Reviewer Name**: Hiba Ahmad
+- **Reviewer Contact**: https://www.linkedin.com/in/hibahmad30/
+- **Validation Date**: March 6, 2025
 
 ---
 
 ## Additional Notes:
-- **None**
+- Provisioned a Windows 10 VM in Microsoft Azure. 
+- Onboarded the VM to MDE and validated using 'Assets > Devices'.
+- Performed the threat events including browser installation, suspicious broswer activity, and file creation, modification, and deletion.
+- Validated that the actions are present using various KQL queries. 
 
 ---
 
@@ -95,3 +98,4 @@ DeviceFileEvents
 | **Version** | **Changes**                   | **Date**         | **Modified By**   |
 |-------------|-------------------------------|------------------|-------------------|
 | 1.0         | Initial draft                  | `September  6, 2024`  | `Josh Madakor`   
+| 1.1         | Threat events performed and validated | `March  6, 2025`      | `Hiba Ahmad`   
