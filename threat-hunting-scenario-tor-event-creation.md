@@ -90,7 +90,7 @@ DeviceFileEvents
 - Provisioned a Windows 10 VM in Microsoft Azure. 
 - Onboarded the VM to MDE and validated using 'Assets > Devices'.
 - Performed the threat events including browser installation, suspicious broswer activity, and file creation, modification, and deletion.
-- Validated that the actions are present using various KQL queries. 
+- Validated that the actions are being logged using various KQL queries. 
 
 ---
 
